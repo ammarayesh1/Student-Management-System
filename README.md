@@ -45,3 +45,6 @@ python main.py
 Author
 
 Ammar Ayesh
+## Project Features
+- Add student information
+- Display student information
