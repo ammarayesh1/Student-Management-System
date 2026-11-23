@@ -1,6 +1,6 @@
 students = []
 
-print("Welcome to Student Management System")
+("Welcome to Student Management System - Main Version")
 
 name = input("Enter Student Name: ")
 student_id = input("Enter Student ID: ")
